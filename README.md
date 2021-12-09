@@ -1,4 +1,4 @@
-### Oi! eu sou Gabriel
+### Oi! eu sou Gabriel, programador e investidor
 
 <div align="center">
   <a href="https://github.com/gglsilva">
