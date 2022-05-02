@@ -1,4 +1,4 @@
-### Oi! eu sou Gabriel, programador e investidor
+### Oi! eu sou Gabriel, programador Python Back-end
 
 <div align="center">
   <a href="https://github.com/gglsilva">
