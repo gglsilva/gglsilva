@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gglsilva&label=Profile%20views&color=0e75b6&style=flat" alt="gglsilva" /> </p>
 
-- 🌱 I’m currently learning **Django Framework**
-
-- 💬 Ask me about **python, backend**
-
 - 📫 How to reach me **gabriel.l.galvao@outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
